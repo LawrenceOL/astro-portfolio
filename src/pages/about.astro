@@ -1,0 +1,47 @@
+---
+import MainHead from '../components/MainHead.astro';
+import Footer from '../components/Footer/index.jsx';
+import Nav from '../components/Nav/index.jsx';
+
+---
+
+<html lang="en">
+  <head>
+    <MainHead title="About | Lawrence O'Regan-Lloyd" />
+    <style lang="scss">
+      .heroImg {
+        object-fit: cover;
+
+        img {
+          width: 100%;
+          height: 100%;
+        }
+      }
+
+      .bio {
+        font-size: var(--f-u1);
+        line-height: 2;
+      }
+    </style>
+  </head>
+  <body>
+    <Nav />
+    <div class="wrapper">
+      <h1>About Lawrence O'Regan-Lloyd</h1>
+      <div class="heroImg">
+        <img width="1400" height="350" src="https://images.unsplash.com/photo-1568569045942-c80a8e9b1f7f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1176&q=80" />
+      </div>
+      <div class="bio wrapper wrapper__readable mt8">
+        <p>
+          Hi, I'm Lawrence! I'm a full-stack developer based out of beautiful, sunny, Cape Cod, Massachusetts.
+
+Prior to becoming a developer, I worked in television production in Los Angeles, CA and as an administrative assistant for higher education in Cambridge, MA.
+        </p>
+        <p>
+          Lawrence's coding journey started with self-study through MOOCs online such as Harvard University's CS50x and University of Michigan's Python for Everybody.
+        </p>
+      </div>
+    </div>
+    <Footer />
+</body>
+</html>
