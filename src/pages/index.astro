@@ -10,8 +10,8 @@ interface MarkdownFrontmatter {
 }
 
 const title = 'LawrenceOL.Dev';
-const description = 'Software Engineer';
-const seoDescription = 'LawrenceOL is a software engineer based in Cape Cod, Massachusetts.';
+const description = 'Software Developer';
+const seoDescription = 'LawrenceOL is a software developer based in Cape Cod, Massachusetts.';
 
 const allPosts = await Astro.glob<MarkdownFrontmatter>('./posts/*.md');
 const sortedPosts = allPosts.sort((a, b) => new Date(b.frontmatter.pubDate).valueOf() - new Date(a.frontmatter.pubDate).valueOf());
