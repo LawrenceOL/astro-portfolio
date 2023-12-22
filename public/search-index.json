@@ -1,0 +1,18 @@
+[
+  {
+    "slug": "annies-books-and-gifts",
+    "category": "blog",
+    "title": "Annie's Books and Gifts",
+    "description": "Static site hosted on Azure. Built with good old HTML, CSS, and Javascript",
+    "tags": ["books"],
+    "body": "\nWTechnologies used in this project included HTML, CSS, JavaScript, Azure Static Web Apps.\n\nYou can visit this client site at: [anniesbooksorleans.com](https://www.anniesbooksorleans.com)\n"
+  },
+  {
+    "slug": "mooflix-movies-webapp",
+    "category": "blog",
+    "title": "Mooflix: A Netflix style streaming webapp",
+    "description": "Technologies used in this project included the LAMP Stack (Linux, Apache, MariaDB, PHP), HTML, CSS, and Javascript.",
+    "tags": ["astro"],
+    "body": "\nTechnologies used in this project included the LAMP Stack (Linux, Apache, MariaDB, PHP), HTML, CSS, and Javascript.\n\nBased on a tutorial by Reece Kenney\n"
+  }
+]
