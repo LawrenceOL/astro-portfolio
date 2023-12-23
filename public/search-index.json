@@ -1,18 +1,1 @@
-[
-  {
-    "slug": "annies-books-and-gifts",
-    "category": "blog",
-    "title": "Annie's Books and Gifts",
-    "description": "Static site hosted on Azure. Built with good old HTML, CSS, and Javascript",
-    "tags": ["books"],
-    "body": "\nWTechnologies used in this project included HTML, CSS, JavaScript, Azure Static Web Apps.\n\nYou can visit this client site at: [anniesbooksorleans.com](https://www.anniesbooksorleans.com)\n"
-  },
-  {
-    "slug": "mooflix-movies-webapp",
-    "category": "blog",
-    "title": "Mooflix: A Netflix style streaming webapp",
-    "description": "Technologies used in this project included the LAMP Stack (Linux, Apache, MariaDB, PHP), HTML, CSS, and Javascript.",
-    "tags": ["astro"],
-    "body": "\nTechnologies used in this project included the LAMP Stack (Linux, Apache, MariaDB, PHP), HTML, CSS, and Javascript.\n\nBased on a tutorial by Reece Kenney\n"
-  }
-]
+[{"slug":"annies-orleans","category":"blog","title":"Annie's Books and Gifts","description":"Static site hosted on Azure. Built with good old HTML, CSS, and Javascript","tags":["books"],"body":"\nTechnologies used in this project included HTML, CSS, JavaScript, Azure Static Web Apps.\n\nYou can visit this client site at https://www.anniesbooksorleans.com\n"},{"slug":"gtlo","category":"blog","title":"Get The Lead Out","description":"Team project in collaboration with The Opportunity Project, an initiative of the U.S. Census Bureau","tags":["React","Node.js","Express","MongoDB","Mapbox","D3.js","Heroku","Netlify","The Opportunity Project"],"body":"\nGet The Lead Out was a team project put together by a cross-functional team of designers, data scientists, and software engineers during a coding sprint hosted by the U.S. Census Bureau as a part of its program, The Opportunity Project.\n\nI served as the Engineering Lead on this project where I focused on choosing the tech stack, planning timelines, and ensuring smooth transition between teams, in addition to coding.\n"},{"slug":"mooflix","category":"blog","title":"Mooflix: A Netflix style streaming webapp","description":"Technologies used in this project included the LAMP Stack (Linux, Apache, MariaDB, PHP), HTML, CSS, and Javascript.\nBased on a tutorial by Reece Kenney.  ","tags":["astro,netflix"],"body":"\nTechnologies used in this project included the LAMP Stack (Linux, Apache, MariaDB, PHP), HTML, CSS, and Javascript.\n\nBased on a tutorial by Reece Kenney.\n"}]
