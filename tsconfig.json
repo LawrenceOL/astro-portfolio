@@ -1,3 +1,6 @@
 {
-  "moduleResolution": "node"
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true
+  }
 }

@@ -1,6 +1,6 @@
 ---
 title: "Get The Lead Out"
-pubDate: "2023-12-22"
+pubDate: "2023-12-23"
 slug: "get-the-lead-out"
 description: "Team project in collaboration with The Opportunity Project, an initiative of the U.S. Census Bureau"
 hero: "https://images.pexels.com/photos/2339722/pexels-photo-2339722.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
